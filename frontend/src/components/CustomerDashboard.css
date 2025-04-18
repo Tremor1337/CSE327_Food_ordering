@@ -1,0 +1,68 @@
+.dashboard-container {
+  padding: 20px;
+  background-color: #f5f7fa;
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+}
+
+.section {
+  margin-top: 30px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #eee;
+  text-align: left;
+}
+
+button {
+  margin: 5px 5px 5px 0;
+  padding: 8px 12px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+button:disabled {
+  background-color: #bbb;
+  cursor: not-allowed;
+}
+
+input, select {
+  padding: 8px;
+  margin: 5px 0;
+  width: 240px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.success-msg {
+  margin-top: 10px;
+  color: green;
+  font-weight: bold;
+}
+
+.autotrack-toggle {
+  margin-left: 15px;
+}

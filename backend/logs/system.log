@@ -1,0 +1,195 @@
+[2025-04-17T17:36:34.949Z] Admin 'red1' viewed system logs
+[2025-04-17T17:36:37.628Z] Admin 'red1' viewed system logs
+[2025-04-17T17:48:28.584Z] User logged in: 'red1' as admin
+[2025-04-17T17:48:36.184Z] Admin 'red1' changed role of user ID 5 to 'owner'
+[2025-04-17T17:48:44.629Z] User logged in: 'red12' as owner
+[2025-04-17T17:50:13.219Z] User logged in: 'red1' as admin
+[2025-04-17T17:50:19.099Z] User logged in: 'red12' as owner
+[2025-04-17T17:53:09.174Z] User logged in: 'red12' as owner
+[2025-04-17T17:55:55.421Z] User logged in: 'red12' as owner
+[2025-04-17T18:14:27.980Z] User logged in: 'red12' as owner
+[2025-04-17T18:15:07.336Z] ➕ Owner 'red12' added menu item 'cheese' ($12)
+[2025-04-17T18:15:07.340Z] 📋 Owner 'red12' viewed their menu items.
+[2025-04-17T18:15:21.217Z] User logged in: 'red12' as owner
+[2025-04-17T18:15:21.234Z] 📋 Owner 'red12' viewed their menu items.
+[2025-04-17T18:15:21.238Z] 📋 Owner 'red12' viewed their menu items.
+[2025-04-17T18:16:56.896Z] ✏️ Owner 'red12' updated item ID 1 to 'Cheese Burger' ($40)
+[2025-04-17T18:16:56.904Z] 📋 Owner 'red12' viewed their menu items.
+[2025-04-17T18:17:14.892Z] ➕ Owner 'red12' added menu item 'Hotdog' ($30)
+[2025-04-17T18:17:14.897Z] 📋 Owner 'red12' viewed their menu items.
+[2025-04-17T18:17:18.905Z] 🗑️ Owner 'red12' deleted menu item ID 1
+[2025-04-17T18:17:18.913Z] 📋 Owner 'red12' viewed their menu items.
+[2025-04-17T18:19:48.864Z] User logged in: 'red1' as admin
+[2025-04-17T18:19:50.375Z] Admin 'red1' viewed system logs
+[2025-04-17T21:15:35.415Z] User logged in: 'red1' as admin
+[2025-04-17T21:15:41.279Z] Admin 'red1' changed role of user ID 5 to 'customer'
+[2025-04-17T21:15:45.438Z] Admin 'red1' changed role of user ID 5 to 'owner'
+[2025-04-17T21:15:51.760Z] User logged in: 'red12' as owner
+[2025-04-17T21:15:51.785Z] 📋 Owner 'red12' viewed their menu items.
+[2025-04-17T21:15:51.788Z] 📋 Owner 'red12' viewed their menu items.
+[2025-04-17T21:15:56.387Z] User logged in: 'red1' as admin
+[2025-04-17T21:16:03.651Z] New user signed up: 'red123' as customer
+[2025-04-17T21:16:08.331Z] User logged in: 'red123' as customer
+[2025-04-17T21:16:19.965Z] New order placed by 'red123'
+[2025-04-17T21:16:19.966Z] Payment processed: Paid $30.00 using Credit Card
+[2025-04-17T21:25:46.954Z] User logged in: 'red1' as admin
+[2025-04-17T21:26:17.614Z] User logged in: 'red12' as owner
+[2025-04-17T21:26:17.634Z] 📋 Owner 'red12' viewed their menu items.
+[2025-04-17T21:26:17.638Z] 📋 Owner 'red12' viewed their menu items.
+[2025-04-17T21:26:29.410Z] ➕ Owner 'red12' added menu item 'Ham Burger' ($50)
+[2025-04-17T21:26:29.415Z] 📋 Owner 'red12' viewed their menu items.
+[2025-04-17T21:26:45.889Z] User logged in: 'red1' as admin
+[2025-04-17T21:26:47.975Z] Admin 'red1' viewed system logs
+[2025-04-17T21:31:33.876Z] User logged in: 'red12' as owner
+[2025-04-17T21:31:33.899Z] Owner 'red12' viewed restaurant info.
+[2025-04-17T21:31:33.901Z] Owner 'red12' viewed their menu items.
+[2025-04-17T21:31:33.906Z] Owner 'red12' viewed restaurant info.
+[2025-04-17T21:31:33.907Z] Owner 'red12' viewed their menu items.
+[2025-04-17T21:31:51.177Z] Owner 'red12' updated item ID 3 to 'Ham Burger' ($30)
+[2025-04-17T21:31:51.184Z] Owner 'red12' viewed their menu items.
+[2025-04-17T21:32:00.287Z] User logged in: 'red1' as admin
+[2025-04-17T21:32:01.556Z] Admin 'red1' viewed system logs
+[2025-04-17T21:37:56.483Z] User logged in: 'red12' as owner
+[2025-04-17T21:37:56.525Z] Owner 'red12' viewed restaurant info.
+[2025-04-17T21:37:56.529Z] Owner 'red12' viewed their menu items.
+[2025-04-17T21:37:56.530Z] Owner 'red12' viewed restaurant info.
+[2025-04-17T21:37:56.533Z] Owner 'red12' viewed their menu items.
+[2025-04-17T21:38:01.393Z] User logged in: 'red123' as customer
+[2025-04-17T21:38:01.425Z] Customer accessed full public menu
+[2025-04-17T21:38:01.428Z] Customer accessed full public menu
+[2025-04-17T21:38:17.077Z] New order placed by 'red123'
+[2025-04-17T21:38:17.078Z] Payment processed: Will pay $30.00 with Cash on Delivery
+[2025-04-17T21:39:06.033Z] Customer accessed full public menu
+[2025-04-17T21:39:06.035Z] Customer accessed full public menu
+[2025-04-17T21:40:13.354Z] New order placed by 'red123'
+[2025-04-17T21:40:13.355Z] Payment processed: Paid $30.00 using PayPal
+[2025-04-17T21:48:19.256Z] 🆕 New order placed by 'red123'
+[2025-04-17T21:48:19.257Z] 💰 Payment processed: Will pay $30.00 with Cash on Delivery
+[2025-04-17T21:48:19.264Z] ✅ Order recorded in DB for user 'undefined'
+[2025-04-17T21:51:46.474Z] User logged in: 'red123' as customer
+[2025-04-17T21:51:58.037Z] 🆕 New order placed by 'red123'
+[2025-04-17T21:51:58.038Z] 💰 Payment processed: Will pay $30.00 with Cash on Delivery
+[2025-04-17T21:51:58.043Z] ✅ Order recorded in DB for user 'undefined'
+[2025-04-17T21:52:27.808Z] New user signed up: 'red1234' as customer
+[2025-04-17T21:52:31.410Z] User logged in: 'red1234' as customer
+[2025-04-17T21:52:37.880Z] 🆕 New order placed by 'red1234'
+[2025-04-17T21:52:37.881Z] 💰 Payment processed: Will pay $30.00 with Cash on Delivery
+[2025-04-17T21:52:37.888Z] ✅ Order recorded in DB for user 'undefined'
+[2025-04-17T21:55:14.047Z] 🆕 New order placed by 'red1234'
+[2025-04-17T21:55:14.049Z] 💰 Payment processed: Paid $60.00 using PayPal
+[2025-04-17T21:55:22.777Z] User logged in: 'red1' as admin
+[2025-04-17T21:55:23.807Z] Admin 'red1' viewed system logs
+[2025-04-17T21:55:47.637Z] User logged in: 'red1234' as customer
+[2025-04-17T22:02:16.581Z] New user signed up: 'redd' as delivery
+[2025-04-17T22:02:23.563Z] User logged in: 'redd' as delivery
+[2025-04-17T22:02:33.769Z] 🚚 Delivery updated order #4 for customer 'red1234' to 'out for delivery'
+[2025-04-17T22:02:47.963Z] User logged in: 'red1234' as customer
+[2025-04-17T22:03:18.976Z] User logged in: 'redd' as delivery
+[2025-04-17T22:03:23.110Z] 🚚 Delivery updated order #4 for customer 'red1234' to 'delivered'
+[2025-04-17T22:03:28.793Z] User logged in: 'red1234' as customer
+[2025-04-17T22:03:59.168Z] User logged in: 'redd' as delivery
+[2025-04-17T22:05:23.192Z] User logged in: 'red1' as admin
+[2025-04-17T22:05:24.376Z] Admin 'red1' viewed system logs
+[2025-04-17T22:15:04.135Z] User logged in: 'red1' as admin
+[2025-04-17T22:15:07.296Z] Admin 'red1' viewed system logs
+[2025-04-17T22:15:14.507Z] User logged in: 'redd' as delivery
+[2025-04-17T22:15:20.390Z] User logged in: 'red1234' as customer
+[2025-04-17T22:15:20.410Z] Customer fetched menu (2 items)
+[2025-04-17T22:15:20.415Z] Customer fetched menu (2 items)
+[2025-04-17T22:15:20.417Z] 📦 Orders fetched for user 'red1234' (2 entries)
+[2025-04-17T22:15:20.419Z] 📦 Orders fetched for user 'red1234' (2 entries)
+[2025-04-17T22:15:54.955Z] 📦 Orders fetched for user 'red1234' (2 entries)
+[2025-04-17T22:16:03.129Z] User logged in: 'redd' as delivery
+[2025-04-17T22:16:08.288Z] 🚚 Delivery updated order #3 for customer 'red1234' to 'preparing'
+[2025-04-17T22:16:16.601Z] User logged in: 'red1234' as customer
+[2025-04-17T22:16:16.615Z] Customer fetched menu (2 items)
+[2025-04-17T22:16:16.617Z] 📦 Orders fetched for user 'red1234' (2 entries)
+[2025-04-17T22:16:16.619Z] Customer fetched menu (2 items)
+[2025-04-17T22:16:16.621Z] 📦 Orders fetched for user 'red1234' (2 entries)
+[2025-04-17T22:21:27.917Z] Customer fetched menu (2 items)
+[2025-04-17T22:21:27.921Z] 📦 Orders fetched for user 'red1234' (2 entries)
+[2025-04-17T22:21:27.924Z] Customer fetched menu (2 items)
+[2025-04-17T22:21:27.925Z] 📦 Orders fetched for user 'red1234' (2 entries)
+[2025-04-17T22:21:29.852Z] 📡 Latest order status for 'red1234': delivered
+[2025-04-17T22:21:30.930Z] 📡 Latest order status for 'red1234': delivered
+[2025-04-17T22:27:29.957Z] Customer fetched menu (2 items)
+[2025-04-17T22:27:29.959Z] 📦 Orders fetched for user 'red1234' (2 entries)
+[2025-04-17T22:27:33.034Z] Customer fetched menu (2 items)
+[2025-04-17T22:27:33.035Z] 📦 Orders fetched for user 'red1234' (2 entries)
+[2025-04-17T22:27:33.037Z] Customer fetched menu (2 items)
+[2025-04-17T22:27:33.039Z] 📦 Orders fetched for user 'red1234' (2 entries)
+[2025-04-17T22:27:34.584Z] 📡 Latest order status for 'red1234': delivered
+[2025-04-17T22:27:40.739Z] 📡 Latest order status for 'red1234': delivered
+[2025-04-17T22:27:52.120Z] User logged in: 'redd' as delivery
+[2025-04-17T22:27:57.002Z] 🚚 Delivery updated order #3 for customer 'red1234' to 'out for delivery'
+[2025-04-17T22:28:01.816Z] User logged in: 'red1234' as customer
+[2025-04-17T22:28:01.828Z] Customer fetched menu (2 items)
+[2025-04-17T22:28:01.830Z] 📦 Orders fetched for user 'red1234' (2 entries)
+[2025-04-17T22:28:01.833Z] Customer fetched menu (2 items)
+[2025-04-17T22:28:01.834Z] 📦 Orders fetched for user 'red1234' (2 entries)
+[2025-04-17T22:28:03.514Z] 📡 Latest order status for 'red1234': delivered
+[2025-04-17T22:33:27.974Z] 🍽️ Customer fetched menu (2 items)
+[2025-04-17T22:33:27.979Z] 📦 Orders fetched for user 'red1234' (2 entries)
+[2025-04-17T22:34:01.710Z] User logged in: 'red1234' as customer
+[2025-04-17T22:34:01.754Z] 🍽️ Customer fetched menu (2 items)
+[2025-04-17T22:34:01.755Z] 📦 Orders fetched for user 'red1234' (2 entries)
+[2025-04-17T22:34:01.757Z] 🍽️ Customer fetched menu (2 items)
+[2025-04-17T22:34:01.759Z] 📦 Orders fetched for user 'red1234' (2 entries)
+[2025-04-17T22:34:03.536Z] 📡 Active statuses for 'red1234': 1 tracked
+[2025-04-17T22:34:05.665Z] 📡 Active statuses for 'red1234': 1 tracked
+[2025-04-17T22:34:10.640Z] 📡 Active statuses for 'red1234': 1 tracked
+[2025-04-17T22:34:19.212Z] 📦 Orders fetched for user 'red1234' (2 entries)
+[2025-04-17T22:34:23.253Z] 🆕 New order placed by 'red1234'
+[2025-04-17T22:34:23.254Z] 💰 Payment processed: Will pay $90.00 with Cash on Delivery
+[2025-04-17T22:34:23.260Z] 📦 Orders fetched for user 'red1234' (3 entries)
+[2025-04-17T22:34:26.586Z] 📡 Active statuses for 'red1234': 2 tracked
+[2025-04-17T22:34:31.153Z] User logged in: 'redd' as delivery
+[2025-04-17T22:34:33.979Z] 🚚 Delivery updated order #5 for customer 'red1234' to 'preparing'
+[2025-04-17T22:34:40.893Z] User logged in: 'red1234' as customer
+[2025-04-17T22:34:40.906Z] 🍽️ Customer fetched menu (2 items)
+[2025-04-17T22:34:40.908Z] 📦 Orders fetched for user 'red1234' (3 entries)
+[2025-04-17T22:34:40.910Z] 🍽️ Customer fetched menu (2 items)
+[2025-04-17T22:34:40.911Z] 📦 Orders fetched for user 'red1234' (3 entries)
+[2025-04-17T22:34:42.276Z] 📡 Active statuses for 'red1234': 2 tracked
+[2025-04-17T22:34:43.070Z] 📡 Active statuses for 'red1234': 2 tracked
+[2025-04-17T22:34:51.868Z] 📡 Active statuses for 'red1234': 2 tracked
+[2025-04-17T22:34:52.822Z] 📡 Active statuses for 'red1234': 2 tracked
+[2025-04-17T22:34:53.381Z] 🍽️ Customer fetched menu (2 items)
+[2025-04-17T22:34:53.383Z] 📦 Orders fetched for user 'red1234' (3 entries)
+[2025-04-17T22:38:16.951Z] 🍽️ Customer fetched menu (2 items)
+[2025-04-17T22:38:16.954Z] 📦 Orders fetched for user 'red1234' (3 entries)
+[2025-04-17T22:38:19.985Z] 📡 Active statuses for 'red1234': 2 tracked
+[2025-04-18T00:42:31.487Z] User logged in: 'red1234' as customer
+[2025-04-18T00:42:31.545Z] 🍽️ Customer fetched menu (2 items)
+[2025-04-18T00:42:31.546Z] 📦 Orders fetched for user 'red1234' (3 entries)
+[2025-04-18T00:42:31.548Z] 🍽️ Customer fetched menu (2 items)
+[2025-04-18T00:42:31.549Z] 📦 Orders fetched for user 'red1234' (3 entries)
+[2025-04-18T00:42:35.790Z] 📦 Orders fetched for user 'red1234' (3 entries)
+[2025-04-18T00:42:39.835Z] 📡 Active statuses for 'red1234': 2 tracked
+[2025-04-18T00:47:01.948Z] 🍽️ Customer fetched menu (2 items)
+[2025-04-18T00:47:01.952Z] 📦 Orders fetched for user 'red1234' (3 entries)
+[2025-04-18T00:47:01.953Z] 🍽️ Customer fetched menu (2 items)
+[2025-04-18T00:47:01.956Z] 📦 Orders fetched for user 'red1234' (3 entries)
+[2025-04-18T00:50:44.603Z] User logged in: 'red1' as admin
+[2025-04-18T00:50:55.823Z] Admin 'red1' viewed system logs
+[2025-04-18T00:51:08.544Z] User logged in: 'red12' as owner
+[2025-04-18T00:51:08.565Z] Owner 'red12' viewed restaurant info.
+[2025-04-18T00:51:08.570Z] Owner 'red12' viewed their menu items.
+[2025-04-18T00:51:08.572Z] Owner 'red12' viewed restaurant info.
+[2025-04-18T00:51:08.576Z] Owner 'red12' viewed their menu items.
+[2025-04-18T00:51:32.302Z] User logged in: 'red1234' as customer
+[2025-04-18T00:51:32.318Z] 🍽️ Customer fetched menu (2 items)
+[2025-04-18T00:51:32.320Z] 📦 Orders fetched for user 'red1234' (3 entries)
+[2025-04-18T00:51:32.323Z] 🍽️ Customer fetched menu (2 items)
+[2025-04-18T00:51:32.327Z] 📦 Orders fetched for user 'red1234' (3 entries)
+[2025-04-18T00:51:55.554Z] User logged in: 'red12' as owner
+[2025-04-18T00:51:55.582Z] Owner 'red12' viewed restaurant info.
+[2025-04-18T00:51:55.592Z] Owner 'red12' viewed their menu items.
+[2025-04-18T00:51:55.594Z] Owner 'red12' viewed restaurant info.
+[2025-04-18T00:51:55.600Z] Owner 'red12' viewed their menu items.
+[2025-04-18T00:52:01.425Z] User logged in: 'redd' as delivery
+[2025-04-18T00:52:18.275Z] User logged in: 'red1234' as customer
+[2025-04-18T00:52:18.292Z] 🍽️ Customer fetched menu (2 items)
+[2025-04-18T00:52:18.293Z] 📦 Orders fetched for user 'red1234' (3 entries)
+[2025-04-18T00:52:18.298Z] 🍽️ Customer fetched menu (2 items)
+[2025-04-18T00:52:18.300Z] 📦 Orders fetched for user 'red1234' (3 entries)
